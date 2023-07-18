@@ -7,5 +7,17 @@ supported.
 I ensured that app seamlessly integrates with Google Voice Assistant, utilizing its powerful speech recognition capabilities for enhanced user
 interaction. 
 
+# HARDWARE COMPONENTS:
+• ESP32
+• 2 channel relay module
+• 5V DC supply
+• 2 appliances
+• Connecting wires
+• Jumper wires
+
+# SOFTWARE REQUIEMENTS:
+• Arduino IDE
+• MIT app inverter web version
+
 
 ![image](https://github.com/Agl-Ayush/IOT-Voice-App-for-Home-Automation/assets/111176210/219d6cbf-8642-44b0-ae8e-21997204724d)
