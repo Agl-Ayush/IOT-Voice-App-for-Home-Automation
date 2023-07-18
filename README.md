@@ -21,3 +21,6 @@ interaction.
 
 
 ![image](https://github.com/Agl-Ayush/IOT-Voice-App-for-Home-Automation/assets/111176210/219d6cbf-8642-44b0-ae8e-21997204724d)
+
+![image](https://github.com/Agl-Ayush/IOT-Voice-App-for-Home-Automation/assets/111176210/a209ede4-4ec7-4888-855e-3f2a38e96259)
+
