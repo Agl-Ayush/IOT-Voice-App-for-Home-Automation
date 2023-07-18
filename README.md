@@ -8,4 +8,4 @@ I ensured that app seamlessly integrates with Google Voice Assistant, utilizing 
 interaction. 
 
 
-<div center>![image](https://github.com/Agl-Ayush/IOT-Voice-App-for-Home-Automation/assets/111176210/219d6cbf-8642-44b0-ae8e-21997204724d)</div>
+![image](https://github.com/Agl-Ayush/IOT-Voice-App-for-Home-Automation/assets/111176210/219d6cbf-8642-44b0-ae8e-21997204724d)
