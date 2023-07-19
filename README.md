@@ -26,7 +26,8 @@ interaction.
 
 # WORKING DEMO
 
-https://github.com/Agl-Ayush/IOT-Voice-App-for-Home-Automation/assets/111176210/d49fe117-6f2e-4855-b0f2-fb2e81a5ffe1
+https://github.com/Agl-Ayush/IOT-Voice-App-for-Home-Automation/assets/111176210/e50731a5-5bde-4cd8-827f-2bbe0ae40f66
+
 
 
 
